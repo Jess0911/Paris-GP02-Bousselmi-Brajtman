@@ -8,3 +8,4 @@ Created on Mon Feb 27 14:30:52 2023
 Print("hello my name is mathilde")
 
 Print ("hello i am pri")
+print(frt)
