@@ -7,4 +7,4 @@ Created on Mon Feb 27 14:30:52 2023
 
 print("hello my team - I am Jess")
 
-print("hello Jess - I am Pri")
+print("hello my name")
